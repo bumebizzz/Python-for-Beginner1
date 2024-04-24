@@ -1,5 +1,5 @@
-#โจทย์อยู่ใน README.md Assignment 5
-#Assignment 5.1
+#โจทย์อยู่ใน README.md Assignment 3
+#Assignment 3.5
 a = input ()
 b = 1
 if a < 0:

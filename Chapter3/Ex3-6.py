@@ -1,5 +1,5 @@
-#โจทย์อยู่ใน README.md Assignment 6
-#Assignment 6.1
+#โจทย์อยู่ใน README.md Assignment 3
+#Assignment 3.6
 
 m = input ()
 if m == 'a':
