@@ -26,11 +26,37 @@
 
 
 ## Assignment 4
-### Assignment 4-1  
+## Assignment 4-1
+### Assignment 4-1.1  
 ![Ex.1](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_01_01.png)  
 
-### Assignment 4-2  
+### Assignment 4-1.2  
 ![Ex.2](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_01_02.png)  
 
-### Assignment 4-3
-![Ex.3](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_01_03.png) 
+### Assignment 4-1.3
+![Ex.3](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_01_03.png)  
+
+
+## Assignment 4-4  
+### Assignment 4-4.1 
+![Ex.1](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_04_01.png)  
+
+### Assignment 4-4.2
+![Ex.2](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_04_02.png)  
+
+### Assignment 4-4.3
+![Ex.3](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_04_03.png)
+
+## Assignment 4-5  
+### Assignment 4-5.1 
+![Ex.1](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_05_01.png) 
+
+### Assignment 4-5.2 
+![Ex.2](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_05_02.png) 
+
+## Assignment 4-7  
+### Assignment 4-7.1 
+![Ex.1](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_07_01.png)   
+
+### Assignment 4-7.2 
+![Ex.2](https://www.cp.eng.chula.ac.th/~somchai/python101/images/ex04_07_02.png)
